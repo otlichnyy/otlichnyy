@@ -48,7 +48,7 @@ My journey includes building and contributing to diverse projects, ranging from 
 
 ## Tech Stack
 - Languages: JavaScript (Node.js, React), Python
-- Frameworks: Express.js, React.js
+- Frameworks: Nextjs, Express.js, React.js
 - Databases: MongoDB, PostgreSQL
 - Cloud Platforms: AWS, Heroku
 - AI/ML: TensorFlow, PyTorch
