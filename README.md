@@ -49,12 +49,14 @@ My journey includes building and contributing to diverse projects, ranging from 
 ## Tech Stack
 - Languages: JavaScript (Node.js, React), Python
 - Frameworks: Nextjs, Express.js, React.js
-- Databases: MongoDB, PostgreSQL
-- Cloud Platforms: AWS, Heroku
-- AI/ML: TensorFlow, PyTorch
+- Databases: MongoDB, PostgreSQL, MySQL, DynamoDB
+- Vector Database: PineCone, MongoDb Vector Database
+- Cloud Platforms: AWS, Azure, GCP
+- PaaS: Digital Ocean, Linode, Heroku
+- DevOps: Docker, Kubernetes, Github Actions
+- AI/ML: Langchain, LammaIndex, TensorFlow, PyTorch
 
 ## Useful Links
-- [Company's Website](https://createahead.com)
 - [LinkedIn](https://linkedin.com/Otlichnyy)
 - [X](https://x.com/Otlichnyy)
 - [GitHub](https://github.com/Otlichnyy)
