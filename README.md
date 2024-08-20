@@ -5,41 +5,30 @@ Hello there! 👋 I'm Shashank Mishra, a passionate software developer with a fl
 My journey includes building and contributing to diverse projects, ranging from scalable web applications to cutting-edge AI solutions. I thrive in collaborative environments where creativity and technical prowess intersect.
 
 ## SaaS Products
-- **PrepyGPT** 🔗 [prepygpt.com](https://prepygpt.com)
-   - **Description:** PrepyGPT is an AI-powered Ebook Generator and Lead Management System. It leverages Generative AI (likely models such as GPT-3.5 or similar) to automatically generate ebooks. Additionally, it includes features for managing and collecting leads efficiently.
-   - **Usage:** Widely used with over 1000 active users, PrepyGPT simplifies the process of creating ebooks and managing leads through artificial intelligence.
+- **PrepyGPT**  
+  **Description:** An AI-powered Ebook Generator and Lead Management System that leverages Generative AI to automatically create ebooks. It also includes features for efficiently managing and collecting leads, simplifying content creation and marketing efforts.
 
-- **Yejeo** 🔗 [yejeo.pro](https://yejeo.pro)
-   - **Description:** Yejeo is an AI Image Generator that utilizes a Stable Diffusion Model. This model is designed to generate high-quality images with stability and consistency. The use of a diffusion model in image generation typically results in realistic and diverse visual outputs.
-   - **Usage:** Yejeo is employed for generating images using advanced AI techniques, providing users with a tool for creating diverse and high-quality visual content.
+- **Yejeo**  
+  **Description:** An AI Image Generator that uses a Stable Diffusion Model to produce high-quality images. With advanced AI techniques, Yejeo delivers diverse and realistic visual content for various creative needs.
 
-- **BitCoder** 🔗 [bitcoder.pro](https://bitcoder.pro)
-   - **Description:** BitCoder is an AI Coding Assistant designed to assist developers in their coding tasks. It employs multiple Large Language Models (LLM) to provide intelligent code suggestions and enhancements, potentially serving as an alternative to tools like GitHub Copilot.
-   - **Usage:** BitCoder serves as an AI-powered companion for coders, offering assistance and suggestions based on the capabilities of multiple language models, enhancing the coding experience.
-
+- **BitCoder**  
+  **Description:** An AI Coding Assistant designed to help developers with intelligent code suggestions and enhancements using multiple Large Language Models (LLMs). BitCoder serves as a valuable companion for improving coding productivity and accuracy.
 
 ## OSS Build-ups
-- **AuthMail** 🪄 
-  - **Description:** A serverless application that provides a secure and user-friendly authentication mechanism. It is characterized by low cost, high speed, and supports SMTP. Magic Link comes with customizable templates and seamlessly integrates with authentication libraries like nextauth or auth.js.
-  - **Open Source** : [AuthMail](github.com/otlichnyy/AuthMail)
-  
-- **QueueT** 🚦 
-  - **Description:** A serverless application for HTTP-based pub-sub (publish-subscribe) architecture. It includes JavaScript and Python SDKs for ease of integration and provides admin REST endpoints for managing the pub-sub system. QueueT facilitates efficient communication between different components of a distributed system.
-  - **Open Source** : [QueueT](github.com/otlichnyy/queuet)
+- **AuthMail** 🪄  
+  **Description:** A serverless application providing a secure and user-friendly authentication mechanism with customizable Magic Link templates. It integrates seamlessly with authentication libraries like nextauth or auth.js.
 
-- **Cacheir** 🔄 
-  - **Description:** A serverless application designed for HTTP-based caching utilizing DynamoDB. It comes with JavaScript and Python SDKs for convenient implementation and includes admin endpoints for cache management. Cacheir enhances performance by storing and retrieving frequently accessed data in a cost-effective manner.
-  - **Open Source** : [Cacheir](github.com/otlichnyy/cacheir)
+- **QueueT** 🚦  
+  **Description:** A serverless pub-sub system with JavaScript and Python SDKs, enabling efficient communication between components in distributed systems via HTTP-based architecture.
 
-- **Conversa** 🤖
-  - **Description:** A serverless application aimed at building chatbots using RAG (Retrieval-Augmented Generation) techniques. It employs various Large Language Models (LLMs), such as OpenAI and Cohere Command, at scale. Conversa enables the creation of sophisticated and context-aware chatbots capable of handling diverse conversational scenarios.
-  - **Open Source** : [Conversa](github.com/otlichnyy/Conversa)
+- **Cacheir** 🔄  
+  **Description:** A serverless application for HTTP-based caching using DynamoDB, enhancing performance by storing and retrieving frequently accessed data. It also includes admin endpoints and SDKs for seamless implementation.
 
-- **VectorDB with AWS DynamoDB** (WIP)
-  - **Description:** Work in Progress (WIP). VectorDB is an ongoing project aiming to integrate with AWS DynamoDB. It is expected to provide functionalities related to vector-based data storage and retrieval. Stay tuned for updates as the project progresses.
+- **Conversa** 🤖  
+  **Description:** A serverless chatbot builder utilizing Retrieval-Augmented Generation (RAG) techniques with Large Language Models like OpenAI and Cohere Command, supporting sophisticated conversational scenarios at scale.
 
-
-
+- **VectorDB with AWS DynamoDB** (WIP)  
+  **Description:** A work-in-progress project integrating vector-based data storage and retrieval with AWS DynamoDB. Stay tuned for updates!
 
 ## Current Focus
 - Full Stack Development
@@ -47,23 +36,15 @@ My journey includes building and contributing to diverse projects, ranging from 
 - Open Source Contributions
 
 ## Tech Stack
-- Languages: JavaScript (Node.js, React), Python
-- Frameworks: Nextjs, Express.js, React.js
-- Databases: MongoDB, PostgreSQL, MySQL, DynamoDB
-- Vector Database: PineCone, MongoDb Vector Database
-- Cloud Platforms: AWS, Azure, GCP
-- PaaS: Digital Ocean, Linode, Heroku
-- DevOps: Docker, Kubernetes, Github Actions
-- AI/ML: Langchain, LammaIndex, TensorFlow, PyTorch
-
-## Useful Links
-- [LinkedIn](https://linkedin.com/Otlichnyy)
-- [X](https://x.com/Otlichnyy)
-- [GitHub](https://github.com/Otlichnyy)
-- [Portfolio](https://otlichnyy.github.io)
+- **Languages:** JavaScript (Node.js, React), Python  
+- **Frameworks:** Next.js, Express.js, React.js  
+- **Databases:** MongoDB, PostgreSQL, MySQL, DynamoDB  
+- **Vector Database:** PineCone, MongoDB Vector Database  
+- **Cloud Platforms:** AWS, Azure, GCP  
+- **PaaS:** Digital Ocean, Linode, Heroku  
+- **DevOps:** Docker, Kubernetes, Github Actions  
+- **AI/ML:** LangChain, LlamaIndex, TensorFlow, PyTorch  
 
 I'm always eager to explore new technologies and tackle exciting challenges. When not coding, you can find me immersed in a good book, exploring the outdoors, or tinkering with the latest tech gadgets.
-Let's connect and embark on coding adventures together! 🚀
 
-# TODO
- - Fix all Broken Links
+Let's connect and embark on coding adventures together! 🚀
